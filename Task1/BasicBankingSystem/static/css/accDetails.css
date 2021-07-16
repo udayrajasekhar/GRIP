@@ -1,0 +1,20 @@
+.submit-btn{
+    
+    color: black;
+    background: #21ebff;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
+    font-size: 20px;
+    transition: 0.5s;
+}
+.submit-btn:hover{
+    background: green;
+    box-shadow: 5px 5px 25px  #21ebff;
+    transition:  0.2s;
+}
+a.btn:hover{
+    box-shadow: 5px 5px 11px  #21ebff;
+    transition:  0.2s;
+}
